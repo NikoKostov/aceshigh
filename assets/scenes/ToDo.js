@@ -1,8 +1,0 @@
-
-TOOOO DOO
-
-
-
- Enemygos
-
- Controlls
