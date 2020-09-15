@@ -1,0 +1,326 @@
+{
+  "textures": [{
+    "image": "textures.png",
+    "frames": [
+      {
+        "filename": "bullet1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 104,
+          "y": 123,
+          "w": 4,
+          "h": 12
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 4,
+          "h": 12
+        },
+        "sourceSize": {
+          "w": 4,
+          "h": 12
+        }
+      },
+      {
+        "filename": "expl1",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 98,
+          "y": 77,
+          "w": 25,
+          "h": 24
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 25,
+          "h": 24
+        },
+        "sourceSize": {
+          "w": 25,
+          "h": 24
+        }
+      },
+      {
+        "filename": "expl2",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 103,
+          "w": 32,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "expl3",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 36,
+          "y": 103,
+          "w": 32,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "expl4",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 36,
+          "w": 32,
+          "h": 31
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 1,
+          "w": 32,
+          "h": 31
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "expl5",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 69,
+          "w": 31,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 31,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 31,
+          "h": 32
+        }
+      },
+      {
+        "filename": "expl6",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 70,
+          "y": 103,
+          "w": 32,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "expl7",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 33,
+          "y": 5,
+          "w": 31,
+          "h": 29
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 31,
+          "h": 29
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "expl8",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 66,
+          "y": 73,
+          "w": 30,
+          "h": 28
+        },
+        "spriteSourceSize": {
+          "x": 2,
+          "y": 2,
+          "w": 30,
+          "h": 28
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "planeG",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 36,
+          "y": 40,
+          "w": 32,
+          "h": 27
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 3,
+          "w": 32,
+          "h": 27
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "planeGleft",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 66,
+          "y": 6,
+          "w": 26,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 3,
+          "y": 0,
+          "w": 26,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "planeGright",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 94,
+          "y": 14,
+          "w": 26,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 3,
+          "y": 0,
+          "w": 26,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "planeP",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 70,
+          "y": 48,
+          "w": 32,
+          "h": 23
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 4,
+          "w": 32,
+          "h": 23
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "planePleft",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 35,
+          "y": 69,
+          "w": 29,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 29,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      },
+      {
+        "filename": "planePright",
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 29,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 1,
+          "y": 0,
+          "w": 29,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        }
+      }
+    ]
+  }],
+  "meta": {
+    "app": "Phaser Editor - Atlas Generator",
+    "version": "2"
+  }
+}

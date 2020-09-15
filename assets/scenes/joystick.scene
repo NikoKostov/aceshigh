@@ -1,0 +1,20 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.1.6",
+  "-version": 1,
+  "compilerLang": "JAVA_SCRIPT_6",
+  "displayList": {
+    "-id": "4b3fd951-e98c-40ee-aa44-f7ba50c12be3",
+    "-type": "DisplayList",
+    "children": []
+  },
+  "groups": {
+    "-id": "e3962b96-765a-4a2a-be0e-f81a2b3efaf3",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderWidth": 300,
+  "borderHeight": 450,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "joystick"
+}
