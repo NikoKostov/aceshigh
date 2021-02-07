@@ -1,4 +1,4 @@
-# aceshigh
+# Aces high
 Phaser.js test project
 
 
